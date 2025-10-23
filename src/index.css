@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  background: #2c3e50;
+  overflow-x: hidden;
+}
+
+#root {
+  min-height: 100vh;
+}
